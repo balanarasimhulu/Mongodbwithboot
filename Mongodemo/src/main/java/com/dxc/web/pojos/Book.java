@@ -1,4 +1,4 @@
-package com.dxc.web;
+package com.dxc.web.pojos;
 
 
 import org.springframework.data.annotation.Id;
